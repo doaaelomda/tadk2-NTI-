@@ -1,0 +1,30 @@
+#table{
+    background-image: url("images/planet.png");
+    background-repeat: no-repeat; 
+    background-position:70%;;
+    background-position:300px;
+    background-size: 100%;
+    opacity:0.9;
+    align-items: center;
+    margin-right: 100px;
+    text-align: center;
+    border-spacing: -10px;
+    border-collapse: collapse;
+    margin-left: 300px;
+    width: 60%;
+    font-size: 1em;
+    
+}
+#top ,th,#b{
+    background-color: rgb(107, 196, 248,0.7);
+    width: 130px;
+    height: 40px; 
+    font-weight: bold;
+    
+}
+
+div ~ p{
+    color: red;
+}
+
+
